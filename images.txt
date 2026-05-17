@@ -12,3 +12,4 @@ stilleshan/zfile
 portainer/portainer-ce
 ghcr.io/immich-app/immich-server:release
 gdy666/lucky
+postgres
